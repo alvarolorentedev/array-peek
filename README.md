@@ -20,7 +20,7 @@ to use this package just add it before the usage of any array to extend its prot
 ```
 require('array-peek')
 
-let array = [1,2,3].peek(console.log)
+[1,2,3].peek(console.log)
 //  Output:
 //> 1
 //> 2
