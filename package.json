@@ -1,6 +1,6 @@
 {
   "name": "array-peek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "peek functionality for arrays, allow execution of functionality for each element of the array and continue procesing of the same",
   "main": "src/peek.js",
   "repository": "git@github.com:kanekotic/array-peek.git",
