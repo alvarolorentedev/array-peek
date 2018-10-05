@@ -1,0 +1,31 @@
+{
+  "name": "array-peek",
+  "version": "0.0.1",
+  "description": "peek functionality for arrays, allow execution of functionality for each element of the array and continue procesing of the same",
+  "main": "src/peek.js",
+  "repository": "git@github.com:kanekotic/array-peek.git",
+  "author": "kanekotic <alvarojosepl@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest",
+    "test:dev": "jest --watchAll",
+    "test:cov": "jest --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "push": "yarn test && git push",
+    "deploy:major": "yarn version --major",
+    "deploy:minor": "yarn version --minor",
+    "deploy:patch": "yarn version --patch",
+    "deploy:push": "git push && git push --tags",
+    "preversion": "yarn test"
+  },
+  "jest": {
+    "automock": false,
+    "testMatch": [
+      "**/test/**/*-test.js"
+    ]
+  },
+  "devDependencies": {
+    "coveralls": "3.0.2",
+    "jest": "23.6.0"
+  }
+}
