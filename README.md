@@ -18,7 +18,7 @@ to use this package just add it before the usage of any array to extend its prot
 
 
 ```
-require('../src/peek')
+require('peek')
 
 let array = [1,2,3].peek(console.log)
 //  Output:
