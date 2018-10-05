@@ -26,11 +26,18 @@ to use this package just add it before the usage of any array to extend its prot
 ```
 require('array-peek')
 
-[1,2,3].peek(console.log)
+[1,2,3]
+    .peek(console.log)
+    .map((value) => value * value)
+    .peek(console.log)
+    
 //  Output:
 //> 1
 //> 2
 //> 3
+//> 1
+//> 4
+//> 9
 ```
 
 ##### Created my free [logo](https://logomakr.com/5sISSS) at [LogoMakr.com](LogoMakr.com) 
