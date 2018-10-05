@@ -6,7 +6,13 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/kanekotic/array-peek/graphs/commit-activity)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/kanekotic/)
 
-extend array functionality to allow peek method
+extend array functionality to allow peek method. 
+
+## peek vs forEach
+
+`peek` as `forEach` allows you to execute a callback on each of the elements of an array, not affecting the content of itself. 
+
+The difference is that `forEach` returns void so no further processing can be done, while `peek` will return the array so you can continue the transformations necesary for your processing 
 
 ## Installation
 
