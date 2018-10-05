@@ -1,9 +1,9 @@
 # ![logomakr_5sisss](https://user-images.githubusercontent.com/3071208/46520471-66bd9300-c87c-11e8-855c-e38b28094435.png)
-[![Build Status](https://travis-ci.org/kanekotic/oauth-electron.svg?branch=master)](https://travis-ci.org/kanekotic/oauth-electron)
-[![Coverage Status](https://coveralls.io/repos/github/kanekotic/oauth-electron/badge.svg?branch=master)](https://coveralls.io/github/kanekotic/oauth-electron?branch=master)
-[![npm](https://img.shields.io/npm/dy/oauth-electron.svg)](https://github.com/kanekotic/oauth-electron)
-[![GitHub license](https://img.shields.io/github/license/kanekotic/oauth-electron.svg)](https://github.com/kanekotic/oauth-electron/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/kanekotic/oauth-electron/graphs/commit-activity)
+[![Build Status](https://travis-ci.org/kanekotic/array-peek.svg?branch=master)](https://travis-ci.org/kanekotic/array-peek)
+[![Coverage Status](https://coveralls.io/repos/github/kanekotic/array-peek/badge.svg?branch=master)](https://coveralls.io/github/kanekotic/array-peek?branch=master)
+[![npm](https://img.shields.io/npm/dy/array-peek.svg)](https://github.com/kanekotic/array-peek)
+[![GitHub license](https://img.shields.io/github/license/kanekotic/array-peek.svg)](https://github.com/kanekotic/array-peek/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/kanekotic/array-peek/graphs/commit-activity)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/kanekotic/)
 
 extend array functionality to allow peek method
