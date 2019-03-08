@@ -1,6 +1,6 @@
 # ![logomakr_5sisss](https://user-images.githubusercontent.com/3071208/46520471-66bd9300-c87c-11e8-855c-e38b28094435.png)
 [![Build Status](https://travis-ci.org/kanekotic/array-peek.svg?branch=master)](https://travis-ci.org/kanekotic/array-peek)
-[![Coverage Status](https://coveralls.io/repos/github/kanekotic/array-peek/badge.svg?branch=master)](https://coveralls.io/github/kanekotic/array-peek?branch=master)
+[![codecov](https://codecov.io/gh/kanekotic/array-peek/branch/master/graph/badge.svg)](https://codecov.io/gh/kanekotic/array-peek)
 [![npm](https://img.shields.io/npm/dy/array-peek.svg)](https://github.com/kanekotic/array-peek)
 [![GitHub license](https://img.shields.io/github/license/kanekotic/array-peek.svg)](https://github.com/kanekotic/array-peek/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/kanekotic/array-peek/graphs/commit-activity)
