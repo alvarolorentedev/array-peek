@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "codecov": "3.6.5",
-    "jest": "25.5.3"
+    "jest": "26.0.1"
   }
 }
