@@ -8,7 +8,7 @@
 
 extend array functionality to allow peek method. 
 
-## peek vs forEach
+## peek vs forEach 
 
 `peek` as `forEach` allows you to execute a callback on each of the elements of an array, not affecting the content of itself. 
 
